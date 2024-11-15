@@ -27,7 +27,12 @@ This game must be run as **administrator**, tactically you can still run it with
 
 There are multiple options, choose the one you like. Clicking on the file name will download it
 
-
+| Name                                                                                                                                       | Type                           | Description                                                                                                                                                                  |
+|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [unwholesome-SFX.exe](https://github.com/devsnaith/unwholesome/releases/download/v0.1.0/unwholesome-0.1.0-SFX.exe)                         | self extracting archive (.exe) | This binary contains the game and Java Runtime so you don't have to install it **(recommended)**                                                                             |
+| [unwholesome-without-jre-SFX.exe](https://github.com/devsnaith/unwholesome/releases/download/v0.1.0/unwholesome-without-jre-0.1.0-SFX.exe) | self extracting archive (.exe) | This binary contains the game without the Java Runtime, so you will need to [install it manually](https://www.java.com/en/download/manual.jsp) for the game to work          |
+| [unwholesome.zip](https://github.com/devsnaith/unwholesome/releases/download/v0.1.0/unwholesome-0.1.0.zip)                                 | compressed archive (.zip)      | Archive contains the game ``.exe`` file with Java Runtime included with it so you don't have to install it **(recommended)**                                                 |
+| [unwholesome-without-jre.zip](https://github.com/devsnaith/unwholesome/releases/download/v0.1.0/unwholesome-without-jre.zip)               | compressed archive (.zip)      | Archive contains the game ``.exe`` file without the Java Runtime so you will need to [install it manually](https://www.java.com/en/download/manual.jsp) for the game to work |
 
 > Note that you will need to choose the compressed archive (.zip) if you want to enable debug mode in the game, which we will explain later.
 
