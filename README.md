@@ -101,7 +101,7 @@ There are two characters in the game, the player and the seller.
 | Items Icon | Items Name | benefit |
 | --- | :---: | --- |
 | <img src="./docs/images/store/Heart.png" alt="Heart Item" align="left" height="20px"> | Heart | Add +1 to your Heart
-| <img src="./docs/images/store/umbrella.png" alt="Umbrella Item" align="left" height="20px"> | Umbrella | Add Unfortunately this item will act as a shield for 30s
+| <img src="./docs/images/store/umbrella.png" alt="Umbrella Item" align="left" height="20px"> | Umbrella | Unfortunately this item will act as a shield for 30s
 | <img src="./docs/images/store/slowdown.png" alt="Slowdown Item" align="left" height="20px"> | Slowdown | Makes the Emojis slower (You can buy it more than once)
 | <img src="./docs/images/store/wallpaperIcon.png" alt="Wallpaper Item" align="left" height="20px"> | Leave my wallpaper | Buy this Item to keep your wallpaper from changing.
 | <img src="./docs/images/store/FilesIcon.png" alt="Don't Make Cringe!" align="left" height="20px"> | Don't Make Cringe! | Buy this Item to keep your desktop clean.
