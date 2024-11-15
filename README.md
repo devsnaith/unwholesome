@@ -2,9 +2,12 @@
 
 ## What is unwholesome?
 
-Unwholesome is a simple game that messes with the player machine and tries to prevent the player from closing it. The idea of ​​the game is similar to space shooting games but in a **cheap way**.
+Unwholesome is a simple game that messes with the player pc and tries to prevent the player from closing it. The idea of ​​the game is similar to space shooting games but in a **cheap way**.
 
-Please open a new [issue](https://github.com/devsnaith/unwholesome/issues) if you faced a problem with the game.
+Putting a star on this repository is more than enough to support me
+ <img src="./docs/media/Roses.gif" alt="debug screen" height="20px">
+
+ Please open a new [issue](https://github.com/devsnaith/unwholesome/issues) if you faced a problem with the game.
 
 #### Description
 Unwholesome is a game designed to run on Windows, you can still run it on another operating system if you want, the game tries to kill taskmgr.exe and explorer.exe to prevent the player from closing it, the only way to stop this is to win.
@@ -131,4 +134,4 @@ The game ignores any close request, but enabling debug mode will allow you to cl
 
 ## Me Playing it ;)
 
-[gameplay](./docs/videos/gameplay.mp4)
+[gameplay](./docs/media/gameplay.mp4)
