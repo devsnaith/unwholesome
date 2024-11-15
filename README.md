@@ -113,8 +113,6 @@ To open the debug menu in the game, you need to download ``unwholesome-without-j
 
 The ``meow.conf`` need to be next to the ``unwholesome.jar`` or ``unwholesome.exe`` (Not the ``sfx`` versions), this configuration file is a ``key=value`` type and it is sooo simpleee, you can set 3 keys in it.
 
-<img src="./docs/screenshots/debug0.png" alt="debug screen" align="right" height="300px">
-
 | key    | value   | description                                 |
 |--------|---------|---------------------------------------------|
 | debug  | 0 or 1  | run the game in debug mode, 0=false, 1=true |
@@ -125,6 +123,12 @@ The ``meow.conf`` need to be next to the ``unwholesome.jar`` or ``unwholesome.ex
 
 ### Debugging
 
+<img src="./docs/screenshots/debug0.png" alt="debug screen" align="center" height="300px">
+
 Running the game in debug mode will disable the commands that the game will invoke when the player loses, so running the game in debug mode is important when developing it on Linux.
 
 The game ignores any close request, but enabling debug mode will allow you to close the game at any time by pressing the Escape key, setting ``debug`` key to ``1`` in the configuration file will enable the debug mode.
+
+## Me Playing it ;)
+
+[gameplay](./docs/videos/gameplay.mp4)
