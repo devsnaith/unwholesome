@@ -1,0 +1,12 @@
+.gradle
+.project
+.settings
+.classpath
+.vscode
+Audios
+build
+bin
+
+launch4j
+src/main/resources/Icon.ico
+
