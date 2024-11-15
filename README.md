@@ -132,6 +132,6 @@ Running the game in debug mode will disable the commands that the game will invo
 
 The game ignores any close request, but enabling debug mode will allow you to close the game at any time by pressing the Escape key, setting ``debug`` key to ``1`` in the configuration file will enable the debug mode.
 
-## Me Playing it ;)
+## Gameplay and Screenshots 
 
-[gameplay](./docs/media/gameplay.mp4)
+[![gameplay](https://img.youtube.com/vi/C_6eMFFJKq4/1.jpg)](https://www.youtube.com/watch?v=C_6eMFFJKq4)
