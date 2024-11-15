@@ -69,7 +69,7 @@ Make sure the operating system you're shipping the game to has Java pre-installe
 Run the game using:
 
 ```
-$ java -jar java -jar unwholesome.jar
+$ java -jar *.jar
 ```
 
 ## How to play it?
