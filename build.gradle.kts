@@ -1,10 +1,10 @@
 plugins {
-    // id("pl.allegro.tech.build.axion-release") version "1.18.7"
+    id("pl.allegro.tech.build.axion-release") version "1.18.7"
     eclipse
     java
 }
 
-// version = scmVersion.version
+version = scmVersion.version
 tasks.register<Copy>("librariesToJar") {
     from(configurations.runtimeClasspath)
     into("$buildDir/libs/libraries")
