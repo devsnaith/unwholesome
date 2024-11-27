@@ -110,6 +110,8 @@ There are two characters in the game, the player and the seller.
 
 ## Configuration & Debugging
 
+### You should consider reading [this issue](https://github.com/devsnaith/unwholesome/issues/1) before reading this section 🏃<br>Or don't read it and see/discover the good things you will get. 🍰
+
 To open the debug menu in the game, you need to download ``unwholesome-without-jre.zip`` or ``unwholesome.zip`` (if you don't have a [JRE installed](https://www.java.com/en/download/manual.jsp)), these files shiped with ``meow.conf`` but ``*.sfx.exe`` does not, the debug menu can still be run in the ``*.sfx.exe`` versions because the game in the ``*.sfx.exe`` versions are extracted in ``%TEMP%`` or ``(C:\Users\%USERNAME%\AppData\Local\Temp)``, although moving the configuration file before the game gets loaded is a bit tricky.
 
 ### The configuration file ``meow.conf``
